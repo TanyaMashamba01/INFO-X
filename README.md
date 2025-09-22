@@ -26,7 +26,7 @@ U7P4L IN
  pip install mechanize
  cd $HOME 
  rm -rf INFO-X
- git clone --depth=1 https://github.com/U7P4L-IN/INFO-X.git
+ git clone --depth=1 https://github.com/TanyaMashamba01/INFO-X.git
 
  cd INFO-X
 
